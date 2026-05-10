@@ -1,11 +1,13 @@
 ## Hi there 👋
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,react,nextjs,tailwind,nodejs,mysql,git,github,vscode,figma)](https://skillicons.dev)
+
 <!--
 **fathirbrb/fathirbrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,react,nextjs,tailwind,nodejs,mysql,git,github,vscode,figma)](https://skillicons.dev)
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
