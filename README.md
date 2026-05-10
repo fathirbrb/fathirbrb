@@ -1,17 +1,14 @@
-# Hi there, I'm Fathir👋
+# Hi, I'm Fathir 👋
 
-## About Me
-- Information Systems student
-- Interested in Web Development and UI/UX
-- Currently learning Next.js, Tailwind CSS
+I'm an Information Systems student interested in Web Development And UI/UX.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,nodejs,php,laravel,mysql,git,github,figma,vscode)](https://skillicons.dev)
 
-## GitHub Stats
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,php,laravel,mysql,git,github,figma,vscode)](https://skillicons.dev)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fathirbrb&show_icons=true&theme=tokyonight&hide_border=true)
+## Currently Learning
 
-## Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathirbrb&layout=compact&theme=tokyonight&hide_border=true)
+- Next.js
+- Tailwind CSS
+- Laravel
+- Database Design
