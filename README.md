@@ -1,19 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Fathir👋
+
+## About Me
+- Information Systems student
+- Interested in Web Development and UI/UX
+- Currently learning Next.js, Tailwind CSS
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,php,python,react,nextjs,tailwind,nodejs,mysql,git,github,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,php,laravel,mysql,git,github,figma,vscode)](https://skillicons.dev)
 
-<!--
-**fathirbrb/fathirbrb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## GitHub Stats
+![Fathir's GitHub stats](https://github-readme-stats.vercel.app/api?username=fathirbrb&show_icons=true&theme=tokyonight)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fathirbrb&layout=compact&theme=tokyonight)
